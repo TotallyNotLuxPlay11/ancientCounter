@@ -1,0 +1,16 @@
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\net9.0-windows\CountdownTimerGUI.exe
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\net9.0-windows\CountdownTimerGUI.deps.json
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\net9.0-windows\CountdownTimerGUI.runtimeconfig.json
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\net9.0-windows\CountdownTimerGUI.dll
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\bin\Debug\net9.0-windows\CountdownTimerGUI.pdb
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.AssemblyInfoInputs.cache
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.AssemblyInfo.cs
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.csproj.CoreCompileInputs.cache
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.dll
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\refint\CountdownTimerGUI.dll
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.pdb
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.genruntimeconfig.cache
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\ref\CountdownTimerGUI.dll
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.Form1.resources
+D:\Timer\CountdownTimerGUI\CountdownTimerGUI\obj\Debug\net9.0-windows\CountdownTimerGUI.csproj.GenerateResource.cache
